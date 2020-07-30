@@ -1,7 +1,3 @@
-# Simple webpack boilerplate
-
-A ready to use simple webpack boilerplate.
-
 ## Instructions
 
 1.  Clone this repo
